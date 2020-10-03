@@ -11,4 +11,4 @@
 pandas, seaborn, sklearn, numpy, matplotlib
 
 # Статус
-[x] Завершён
+- [x] Завершён
