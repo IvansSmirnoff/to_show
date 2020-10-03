@@ -17,7 +17,7 @@ _Language in which the project has been performed is specified in a separate col
 ## sMAPE_gold_ML: pandas, seaborn, sklearn, numpy, matplotlib
 
 
-|   |   |   |   |
+|[https://github.com/IvansSmirnoff/to_show/tree/main/Bank_Credit_Scoring](https://github.com/IvansSmirnoff/to_show/tree/main/Bank_Credit_Scoring)   |   |   |   |
 |---|---|---|---|
 |   |   |   |   |
 |   |   |   |   |
