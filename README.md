@@ -1,4 +1,4 @@
-# data_projects to show and brag about
+# data_projects to show
 
 Notebooks of data science projects that I have done during studying. Some kind of portfolio. Only notebooks with completed works, no data included due to intellectual property restrictions.
 
