@@ -23,4 +23,4 @@
 pandas, numpy, scipy, matplotlib
 
 # Статус
-[x] Завершён
+- [x] Завершён
