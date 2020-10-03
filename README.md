@@ -17,12 +17,12 @@ _Language in which the project has been performed is specified in a separate col
 ## sMAPE_gold_ML: pandas, seaborn, sklearn, numpy, matplotlib
 
 
-|[https://github.com/IvansSmirnoff/to_show/tree/main/Bank_Credit_Scoring](https://github.com/IvansSmirnoff/to_show/tree/main/Bank_Credit_Scoring)   |   |   |   |
+|[Bank_credit_scoring](https://github.com/IvansSmirnoff/to_show/tree/main/Bank_Credit_Scoring)   |   |   |   |
 |---|---|---|---|
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+|[Egames_shop_predictions](https://github.com/IvansSmirnoff/to_show/tree/main/Egames_shop_predictions)   |   |   |   |
+|[Estate_SPB](https://github.com/IvansSmirnoff/to_show/tree/main/Estate_SPB)   |   |   |   |
+|[Boosts_speed_comparison](https://github.com/IvansSmirnoff/to_show/tree/main/Boosts_speed_comparison)   |   |   |   |
+|[Perspective_Telecom_tariff](https://github.com/IvansSmirnoff/to_show/tree/main/Perspective_Telecom_tariff)   |   |   |   |
+|[Gold_processing](https://github.com/IvansSmirnoff/to_show/tree/main/Gold_processing)   |   |   |   |
+|[Gender_neural](https://github.com/IvansSmirnoff/to_show/tree/main/Gender_neural)   |   |   |   |
+
