@@ -4,7 +4,7 @@ Given data includes compression strength values for 92 concrete cubes from the c
 
 # Conclusion
 
-Our concrete is conform to the given class. (C30/37)
+Our concrete is proven to be conform to the given class. (C30/37)
 
 # Stack
 
