@@ -1,3 +1,5 @@
+
+
 __This is a solution for a typical university building materials task, performed with the help of PC.__
 
 Given data includes compression strength values for 92 concrete cubes from the construction site. Claimed class is [C30/37](https://dianafea.com/manuals/d96/MatLib/node177.html#:~:text=The%20Eurocode%202%20EN%201992,95%2C%20and%20C90%2F105.)
