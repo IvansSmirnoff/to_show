@@ -11,4 +11,4 @@ _Language in which the project has been performed is specified in a separate col
 |[Perspective_Telecom_tariff](https://github.com/IvansSmirnoff/to_show/tree/main/Perspective_Telecom_tariff)   |pandas, scipy, numpy  |EDA and hypothesis testing with the data of a telecom company   |Ru   |
 |[Gold_processing](https://github.com/IvansSmirnoff/to_show/tree/main/Gold_processing)   |pandas, seaborn, sklearn, numpy, matplotlib  |Gold recovery ratio prediction with different sklearn models   |Ru   |
 |[Gender_neural](https://github.com/IvansSmirnoff/to_show/tree/main/Gender_neural)   |tarfile, matplotlib, numpy, pytorch, pandas, os, natsort, glob|Neural Network based gender prediction classifier with a usage script   |Ru   |
-
+|[ConformityConcrete](https://github.com/IvansSmirnoff/to_show/tree/main/Gender_neural)   |pandas, seaborn, matplotlib|Evaluation of concrete samples strength   |En   |
