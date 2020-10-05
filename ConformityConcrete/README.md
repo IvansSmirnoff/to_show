@@ -1,4 +1,4 @@
-![]https://github.com/IvansSmirnoff/to_show/blob/main/ConformityConcrete/Task.png
+![](https://github.com/IvansSmirnoff/to_show/blob/main/ConformityConcrete/Task.png)
 
 # This is a solution for a typical university building materials task
 
