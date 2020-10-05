@@ -2,7 +2,7 @@
 
 Notebooks of data science projects that I have done during studying. Some kind of portfolio. Only notebooks with completed works, no data included due to intellectual property restrictions.
 
-_Language in which the project has been performed is specified in a separate columт
+_Language in which the project has been performed is specified in a separate columт_
 
 |name   |stack   |description   |language_of_comments   |
 |---|---|---|---|
