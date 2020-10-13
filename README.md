@@ -12,3 +12,4 @@ _Language in which the project has been performed is specified in a separate col
 |[Gold_processing](https://github.com/IvansSmirnoff/to_show/tree/main/Gold_processing)   |pandas, seaborn, sklearn, numpy, matplotlib  |Gold recovery ratio prediction with different sklearn models   |Ru   |
 |[Gender_neural](https://github.com/IvansSmirnoff/to_show/tree/main/Gender_neural)   |tarfile, matplotlib, numpy, pytorch, pandas, os, natsort, glob|Neural Network based gender prediction classifier with a usage script   |Ru   |
 |[ConformityConcrete](https://github.com/IvansSmirnoff/to_show/tree/main/ConformityConcrete)   |pandas, seaborn, matplotlib|Evaluation of concrete samples strength   |En   |
+|[Churn_telecom](https://github.com/IvansSmirnoff/to_show/tree/main/Churn_telecom)   |pandas, matplotlib, sklearn, catboost, numpy|Clients churn prediction model using catboost with EDA of the data   |En   |
