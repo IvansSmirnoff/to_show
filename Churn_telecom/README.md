@@ -1,4 +1,7 @@
 # Clients churn prediction model using catboost with EDA
+
+Telecom operator company decides to predict a clients' churn. If the company finds out that the customer wills to quit, he will be offered with special promocodes and personal options. Given data includes personal, tariff and contract information about some of it's clients.
+
 # Summary
 
 Achieved roc-auc - 0.91+
